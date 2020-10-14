@@ -40,7 +40,7 @@
 	</table>
 	</div>
 		<div>
-		<h1> chao cac ban minh da thay doi </h1>
+		
 	</div>
 	<div>
 		<h1> chao cac ban minh da thay doi </h1>
